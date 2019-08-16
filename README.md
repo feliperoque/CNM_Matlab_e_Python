@@ -6,9 +6,8 @@ sistemas linerares, edo's que sem certos momentos chegam a serem complexas e tra
 Os métodos numéricos que este programa disponibilizará no momento, serão:
 
 ## Métodos de Confinamento
-    1. Método Gráfico
-    2. Método Bisecção
-    3. Método da Falsa Posição
+    1. Método Bisecção
+    2. Método da Falsa Posição
 
 ## Métodos Abertos
     1. Iteração de Ponto Fixo
