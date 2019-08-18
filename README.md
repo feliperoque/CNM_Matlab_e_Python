@@ -1,6 +1,6 @@
 # Projeto TuLuk
 
-Programa desenvolvido em Python para a resolução de problemas matemáticos por métodos numéricos; visto a necessidade de resoluções de equações,
+Programa desenvolvido em Matlab para a resolução de problemas matemáticos por métodos numéricos; visto a necessidade de resoluções de equações,
 sistemas linerares, edo's que sem certos momentos chegam a serem complexas e trabalhosas para o ser humano conseguir encontrar sua solução.
 
 Os métodos numéricos que este programa disponibilizará no momento, serão:
