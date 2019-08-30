@@ -2,7 +2,7 @@
 
 Programa desenvolvido em Matlab para a resolução de problemas matemáticos por métodos numéricos; visto a necessidade de resoluções de equações, sistemas linerares, edo's; que em certos momentos chegam a ser complexas e trabalhosas, para o ser humano conseguir encontrar sua solução!
 
-Os métodos numéricos que este programa disponibilizará no momento, serão:
+Os métodos numéricos que este projeto disponibilizará no momento, serão:
 
 ## Métodos de Confinamento
     1. Método Bisecção
