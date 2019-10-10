@@ -1,8 +1,8 @@
 # Projeto TuLuk
 
-Programa desenvolvido em Matlab para a resolução de problemas matemáticos por métodos numéricos; visto a necessidade de resoluções de equações, sistemas linerares, edo's; que em certos momentos chegam a ser complexas e trabalhosas, para o ser humano conseguir encontrar sua solução!
+Programa desenvolvido em Matlab para a resolução de problemas matemáticos por métodos numéricos; visto a necessidade de resoluções de equações, sistemas linerares, edo's; que em certos momentos chegam a ser complexas e trabalhosas utilizando-se de métodos analiticos.
 
-Os métodos numéricos que este projeto disponibilizará no momento, serão:
+Os métodos numéricos que este projeto disponibilizará, até o presente momento, serão:
 
 ## Métodos de Confinamento
     1. Método Bisecção
