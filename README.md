@@ -5,7 +5,7 @@ Programa desenvolvido em Matlab para a resolução de problemas matemáticos por
 Os métodos numéricos que este projeto disponibilizará, até o presente momento, serão:
 
 ## Métodos de Confinamento
-    1. Método Bisecção
+    1. Método Bisecção (Matlab e Python)
     2. Método da Falsa Posição
 
 ## Métodos Abertos
