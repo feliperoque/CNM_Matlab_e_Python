@@ -6,7 +6,7 @@ Os métodos numéricos que este projeto disponibilizará, até o presente moment
 
 ## Métodos de Confinamento
     1. Método Bisecção (Matlab e Python)
-    2. Método da Falsa Posição
+    2. Método da Falsa Posição (Python)
 
 ## Métodos Abertos
     1. Iteração de Ponto Fixo
