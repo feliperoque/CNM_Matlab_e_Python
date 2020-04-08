@@ -1,4 +1,4 @@
-# Cálculo Numérico com Matlab
+# Numerical Methods with Python and Matlab
 
 Programa desenvolvido em Matlab para a resolução de problemas matemáticos por métodos numéricos; visto a necessidade de resoluções de equações, sistemas linerares, edo's; que em certos momentos chegam a ser complexas e trabalhosas utilizando-se de métodos analiticos.
 
