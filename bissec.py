@@ -1,7 +1,7 @@
-# Método da Bisecção - Cálculo Numérico
-# Desenvolvido - Felipe Roque de Albuquerque Neto
-# Instituto Federal de Pernambuco - Campus Recife
-# Curso de Bacharelado em Engenharia Mecânica
+# Método da Bisecção: Disciplina de Cálculo Numérico
+# Autor: Felipe Roque de Albuquerque Neto
+# Instituição: Instituto Federal de Pernambuco - Campus Recife
+# Curso: Bacharelado em Engenharia Mecânica
 
 #Importamos a biblioteca de matemática
 import math 
@@ -14,11 +14,13 @@ print("\n")
 # Definição da tolerancia
 e = float(input("Digite a tolerancia desejada: "))
 print("\n")
-# Construção da Funçãa para entrada das equações
+
+# Construção da Função para entrada das equações
 def f(x):
-    return x**2 +math.log(x) # Equação escolhida
+    return x**2 +math.log(x) # Inserimos aqui nossa equação escolhida
 print("a \tb   \t\tx_media   \t\t\tf(a) \t\t\t\tf(b)                   \t\t\tf(x_media)")
 print("\n")
+
 # Teoremo de Bolzano
 if (f(a)*f(b)) < 0:
     while (math.fabs(b-a)/2 > e):
