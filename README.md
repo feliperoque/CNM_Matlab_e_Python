@@ -1,4 +1,6 @@
-
+<p align="center">
+<img src="image/logo.png">
+</p>
 
 Este programa foi desenvolvido em Python para a resolução de problemas matemáticos por métodos numéricos; visto a necessidade de resoluções de equações, sistemas linerares, edo's; que em certos momentos chegam a ser complexas e trabalhosas por métodos analiticos.
 
