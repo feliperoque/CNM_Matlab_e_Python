@@ -10,7 +10,5 @@ Those algorithm was coded in Python Programming Language looking for solving mat
 
 ## Open Methods
     1. Fixed-Point
-    2. Método de Newton-Rapson
-    3. Método da Secante
     
     
