@@ -1,15 +1,15 @@
 <p align="center">
-<img src="image/logo.png">
+<img src="image/logo2.png">
 </p>
 
-Este programa foi desenvolvido em Python para a resolução de problemas matemáticos por métodos numéricos; visto a necessidade de resoluções de equações, sistemas linerares, edo's; que em certos momentos chegam a ser complexas e trabalhosas por métodos analiticos.
+Those algorithm was coded in Python Programming Language looking for solving mathematical problems by Numerical Analysis. Despite the need to solve complex equation as linear system, differantial equation, etc, here we focous only in the algorithm. Here isn't the place you are going to find solution for problems with these algorithm directly applyed.
 
-## Métodos de Confinamento
-    1. Método Bisecção
-    2. Método da Falsa Posição
+## Containment Methods
+    1. Bissection 
+    2. False-Position
 
-## Métodos Abertos
-    1. Iteração de Ponto Fixo
+## Open Methods
+    1. Fixed-Point
     2. Método de Newton-Rapson
     3. Método da Secante
     
