@@ -9,20 +9,15 @@
 # Bibliotecas
 import math
 
-# Nossa função
-def f(x):
-    return x**2 + math.log(x)
+# Função do cálculo do Ponto_Fixo
+def ponto_fixo(x0, erro, n_de_iteracoes):
+    x1 = f(x0)
+    if (abs(x1-x0)<erro):
+        return x1
 
-x = float(input("Valor Inicial: "))
-e = float(input("Tolerancia: "))
-print("\n")
+    iteracao = 0
 
-i = 0
-x_anterior = 0
+    while ((n_de_iteracoes > iteracao) and (abs(x1-x0) > = erro)):
+        iteracao+=1
 
-while (abs(x - x_anterior) > e):
-    x_anterior = x
-    x = f(x)
 
-    print(i, "{0:.6f}".format(x), "{0:.6f}".format(abs(x - x_anterior)))
-    i = i+1
